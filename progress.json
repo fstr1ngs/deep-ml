@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:06:33.947Z",
+  "generated_at": "2026-09-30T11:14:41.296Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -45,9 +45,9 @@
       "url": "https://www.deep-ml.com/problems/2",
       "path": "problems/0002-transpose-of-a-matrix",
       "first_solved_at": "2026-09-30T11:06:30.914Z",
-      "last_pushed_at": "2026-09-30T11:06:30.914Z",
+      "last_pushed_at": "2026-09-30T11:14:37.368Z",
       "language": "python",
-      "lines": 19
+      "lines": 15
     }
   }
 }
